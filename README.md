@@ -3,11 +3,7 @@
 Habilitar usuario root en una vps.
 
 <br>
-![](https://img.shields.io/github/v/release/powermx/badvpn)
-![](https://img.shields.io/github/repo-size/powermx/badvpn)
-![](https://img.shields.io/github/stars/powermx/badvpn.svg) 
-![](https://img.shields.io/github/forks/powermx/badvpn.svg) 
-![](https://img.shields.io/github/license/powermx/badvpn.svg)
+
 
 ## Servicios Instalados: [SSH root](https://https://github.com/powermx/root "root")
 
@@ -23,6 +19,7 @@ Habilitar usuario root en una vps.
 ![](https://img.shields.io/badge/Debian-10-red)
 
 #### Instalacion
+Primero Teclee : sudo su
 
 Instalación：`wget https://raw.githubusercontent.com/powermx/root/master/root && bash root`
 

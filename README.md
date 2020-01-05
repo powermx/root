@@ -26,7 +26,7 @@ Instalación：`wget https://raw.githubusercontent.com/powermx/root/master/root 
 
 ### root
 
-[![](https://github.com/powermx/root/raw/master/pwrmx.jpg)](https://github.com/powermx/root/raw/master/pwrmx.jpg "root - PowerMX")
+[![](https://github.com/powermx/root/raw/master/root.jpg)](https://github.com/powermx/root/raw/master/root.jpg "root - PowerMX")
 
 > BadVPN - PowerMX http://pwrmx.com
                 

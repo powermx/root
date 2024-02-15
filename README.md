@@ -28,7 +28,7 @@ Instalación：`wget https://raw.githubusercontent.com/powermx/root/master/root 
 
 [![](https://github.com/powermx/root/raw/master/root.jpg)](https://github.com/powermx/root/raw/master/root.jpg "root - PowerMX")
 
-> root - PowerMX http://powermx.org
+> root - PowerMX http://t.me/vpnmx
                 
 ----
 
